@@ -1,5 +1,6 @@
 <?php
 $hallo = "Hallo";
+$welt = "Welt";
 
-echo $hallo;
+echo $hallo . " " . $welt;
 ?>
