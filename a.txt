@@ -1,4 +1,6 @@
 Hallo AAA
 Welt
 
-und nur ein Test
+und nur ein Test.
+
+Hallo
