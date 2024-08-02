@@ -1,6 +1,6 @@
 <?php
 $hallo = "Hallo";
 $welt = "Welt";
-
-echo $hallo . " " . $welt;
+$komma = ",";
 ?>
+<p><?php echo $hallo . " " . $welt . "" . $komma; ?></p>
